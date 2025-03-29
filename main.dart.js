@@ -81802,7 +81802,7 @@ A.abX.prototype={
 yn(a,b,c){return this.aiE(a,b,c)},
 aiE(a,b,c){var s=0,r=A.E(t.hs),q,p,o,n,m
 var $async$yn=A.A(function(d,e){if(d===1)return A.B(e,r)
-while(true)switch(s){case 0:p=A.fl("http://localhost:8000/api/subtitles",0,null)
+while(true)switch(s){case 0:p=A.fl("https://7bf5-183-102-155-78.ngrok-free.app/api/subtitles",0,null)
 o=t.N
 n=A.a3(["Content-Type","application/json"],o,o)
 s=3
