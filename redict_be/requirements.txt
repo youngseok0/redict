@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-multipart
+pytubefix
+openai-whisper
+pydantic
+pydantic-settings
