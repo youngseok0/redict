@@ -81570,7 +81570,7 @@ while(true)switch(s){case 0:p=A.fm("https://7bf5-183-102-155-78.ngrok-free.app/a
 o=t.N
 n=A.Z(["Content-Type","application/json"],o,o)
 s=3
-return A.I(A.aNq(p,B.aY.tt(A.Z(["youtube_url",a,"model_size","small","start_time",c,"duration",b],o,o),null),n),$async$yj)
+return A.I(A.aNq(p,B.aY.tt(A.Z(["youtube_url",a,"start_time",c,"duration",b],o,o),null),n),$async$yj)
 case 3:m=e
 p=m.b
 if(p===200){q=A.aNp(J.cX(B.aY.ph(A.axU(A.ax1(m.e).c.a.h(0,"charset")).fH(m.w),null),"srt_text"),c)
